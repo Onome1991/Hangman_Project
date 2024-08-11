@@ -2,7 +2,13 @@
 AiCore Project
 Project title
 Table of Content
-Installation Instructions
+Project Title
+Table of Contents, if the README file is long
+A description of the project: what it does, the aim of the project, and what you learned
+Installation instructions
+Usage instructions
+File structure of the project
+License informationInstallation Instructions
 import random
 mkdir Hangman # type: ignore
 git clone https://github.com/Onome1991/Hangman_Project.git
